@@ -18,7 +18,7 @@ In the terminal, run the following commands from [Railscast #328](http://railsca
 **rails g bootstrap:install**
 
 <h4>Gemfile</h4>
-Then go into your **Gemfile** and add the following:
+In your **Gemfile** add the following:
 gem "therubyracer"
 gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
 gem "twitter-bootstrap-rails"
